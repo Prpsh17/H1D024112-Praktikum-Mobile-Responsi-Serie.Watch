@@ -23,15 +23,10 @@ Aplikasi pencarian dan katalog anime berbasis Android yang dikembangkan untuk me
 
 ## 📸 Screenshot & GIF Aplikasi
 
-> *Silakan ambil screenshot atau rekam GIF dari emulator/device fisik Anda dan letakkan di folder `docs/` atau sertakan link gambar di bawah ini.*
 
 | Home Screen (Pencarian & Filter) | Detail Screen (Informasi Lengkap) |
 | :---: | :---: |
-| *(Sematkan Screenshot Home Screen di sini)* | *(Sematkan Screenshot Detail Screen di sini)* |
-
-| Demonstrasi Alur Aplikasi (GIF) |
-| :---: |
-| *(Sematkan rekaman GIF animasi di sini)* |
+| *(screenshot_home.png)* | *(screenshot_detail.png)* |
 
 ---
 
