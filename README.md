@@ -26,7 +26,7 @@ Aplikasi pencarian dan katalog anime berbasis Android yang dikembangkan untuk me
 
 | Home Screen (Pencarian & Filter) | Detail Screen (Informasi Lengkap) |
 | :---: | :---: |
-| *(screenshot_home.png)* | *(screenshot_detail.png)* |
+| <img src="screenshot_home.png" width="320" alt="Home Screen"/> | <img src="screenshot_detail.png" width="320" alt="Detail Screen"/> |
 
 ---
 
